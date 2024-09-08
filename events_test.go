@@ -1,4 +1,4 @@
-package gochimp3
+package mailchimp_client
 
 import (
 	"encoding/json"

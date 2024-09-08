@@ -1,4 +1,4 @@
-package gochimp3
+package mailchimp_client
 
 type WorkflowType map[string]interface{}
 type TimeToRun map[string]interface{}

@@ -1,4 +1,4 @@
-package gochimp3
+package mailchimp_client
 
 const (
 	campaign_folders_path       = "/campaign-folders"

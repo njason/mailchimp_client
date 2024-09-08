@@ -1,4 +1,4 @@
-package gochimp3
+package mailchimp_client
 
 const (
 	search_members_path = "/search-members"
